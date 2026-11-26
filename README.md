@@ -1,6 +1,6 @@
-C Programming – First Year
+C Programming 
 
-This repository contains my first-year B.Tech C programming practice programs.
+This repository contains my first-year B.Tech C programming programs.
 
 Programs
 
